@@ -1,0 +1,5 @@
+tests:
+  - name: "Basic sanity"
+    task: "What is 2 + 2?"
+    expect:
+      contains: "4"

@@ -1,0 +1,10 @@
+{
+  "name": "marketing-agent",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@poncho-ai/cli": "^0.9.4",
+    "marked": "^17.0.2",
+    "marketingskills": "github:coreyhaines31/marketingskills"
+  }
+}
