@@ -1,4 +1,4 @@
-# marketing-agent
+# Marketing Agent
 
 A specialized marketing AI agent built with [Poncho](https://github.com/cesr/poncho-ai), equipped with 25+ marketing skills for SaaS and software companies.
 
