@@ -1,5 +1,5 @@
 ---
-name: marketing-agent
+name: Marketing Agent — Poncho
 id: agent_a6da7ae180314a36915ef254029c24e3
 description: A helpful Poncho assistant
 model:
