@@ -6,7 +6,7 @@ A specialized marketing AI agent built with [Poncho](https://github.com/cesr/pon
 >
 > [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fcesr%2Fmarketing-agent&env=ANTHROPIC_API_KEY&envDescription=API%20key%20needed%20to%20power%20the%20marketing%20agent&envLink=https%3A%2F%2Fconsole.anthropic.com%2Fsettings%2Fkeys)
 
-![Marketing Agent](./assets/marketing-agent.png)
+[![Marketing Agent](./assets/marketing-agent.png)](https://marketing-agent-poncho.vercel.app/)
 
 ## What I Can Do
 
