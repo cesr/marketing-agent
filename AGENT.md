@@ -4,7 +4,7 @@ id: agent_a6da7ae180314a36915ef254029c24e3
 description: A helpful Poncho assistant
 model:
   provider: anthropic
-  name: claude-opus-4-5
+  name: claude-opus-4-6
   temperature: 0.2
 limits:
   maxSteps: 50
